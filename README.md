@@ -1,7 +1,6 @@
 A rainwater marketplace for consumers, forecasters, and geo-engineers.
 
-TBD.
-
 ### Rules
-* All on [Github](https://github.com/raingoes)
-* All in [Rust](https://www.rust-lang.org/)
+* Respect others.
+* Organized on [Github](https://github.com/raingoes)
+* Written in [Rust](https://www.rust-lang.org/)
